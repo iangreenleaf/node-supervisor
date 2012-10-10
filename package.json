@@ -33,4 +33,6 @@
   }
 , "engines" : { "node" : ">=0.3.7" }
 , "preferGlobal" : true
+, "scripts":
+  { "test" : "node test/supervisor_test.js" }
 }
